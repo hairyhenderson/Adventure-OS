@@ -1,0 +1,3 @@
+2
+Fire_Rock 1 4/atk|2/def 1 10/2 (Cool_flaming_rock.)
+Rage_Potion 2 10/atk|-5/int 0.5 40/55 (Bottled_anger.)
